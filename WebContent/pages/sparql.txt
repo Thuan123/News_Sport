@@ -1,0 +1,1 @@
+{"code":200,"sparql":["PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\nPREFIX owl: <http://www.w3.org/2002/07/owl#>\nPREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>\nPREFIX bksport: <http://bk.sport.owl#>\nSELECT ?x0\nWHERE {\n  <http://bk.sport.owl#lionel-messi> bksport:hasAbstract ?x0.\n}"]}
